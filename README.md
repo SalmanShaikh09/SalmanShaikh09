@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Salman
 
-<!--
-**SalmanShaikh09/SalmanShaikh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Currently Learning Python
+- Interested In Data Science
+- Building Project to Improve My Programming Skills
+- Learning Step by Step and Practicing regularly
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills & Technologies
+
+- **Programming Language:** Python
+- 
+- **Python Concepts:**
+  - Variables and Data Types
+  - Operators
+  - Conditional Statements
+  - Loops
+  - Lists, Tuples, Sets, and Dictionaries
+  - Functions and Recursion
+  - Object-Oriented Programming(OOP)
+  - Exception Handling
+  - Random Module
+  - 
+- **Tools:** VS Code, GitHub
+- 
+- **Professional Networking:**
+[LinkedIn] (https://www.linkedin.com/in/md-salman-b53a5a444/?isSelfProfile=true)
+
+
+
+## My Projects
+### Snake Water Gun Game
+A Simple game built using Python
+
+# [View Project] (
+  
