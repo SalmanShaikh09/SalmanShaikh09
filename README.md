@@ -34,5 +34,12 @@
 ### Snake Water Gun Game
 A Simple game built using Python
 
-# [View Project] (
+# [View Project] (https://github.com/SalmanShaikh09/Snake-Water-Gun-Game)
+
+
+## Goals
+To Improve my programming Skills and become a Data Scientist.
+
+---
+Thanks for Visiting My Profile!
   
